@@ -36,7 +36,6 @@ const decrement=()=>
     setCounter(counter-1);
 }
 
-
 return (
     
     <>
